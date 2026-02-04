@@ -40,6 +40,24 @@ Curved sidebar navigation
 Randomized card layout design
 Hover underline interactions
 
-Pastel medical color palette
+🛠️ Technologies Used
+React (CRA — No Vite)
+HTML5
+CSS3
+JavaScript
+React Router
+GitHub (Version Control)
 
-Modern footer & clean typography
+🧠 Learning Outcomes
+React component-based UI design
+Professional dashboard layout structuring
+Medical-grade UI/UX design thinking
+Responsive and scalable frontend development
+Translating security concepts into visual UI
+Clean project organization and reusable components
+
+⚠️ Challenges Faced
+Designing a UI that communicates security and privacy visually
+Maintaining consistent design across multiple components
+Simulating encryption, consent, and emergency access without backend logic
+Ensuring the UI feels real-world and production-ready
